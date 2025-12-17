@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Contreras&fontSize=40&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Building%20AI-Powered%20Solutions&descAlignY=55)
+
 # 💫 About Me:
 Cross-Platform Mobile Developer building solutions that make business operations simpler.<br>Currently crafting NexoAI — an AI-powered POS system that lets business owners manage their operations through natural conversation.
 
