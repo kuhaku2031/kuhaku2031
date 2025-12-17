@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Contreras&fontSize=40&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Building%20AI-Powered%20Solutions&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Contreras&fontSize=40&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Building%20AI-Powered%20Solutions&descAlignY=55&width=100%)
 
 # 💫 About Me
 
