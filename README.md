@@ -4,7 +4,7 @@
 
 **Cross-Platform Mobile Developer** building solutions that make business operations simpler.
 
-Currently crafting [NexoAI](https://github.com/kuhaku2031/NexoAI) — an AI-powered POS system that lets business owners manage their operations through natural conversation.
+Currently crafting [NexoAI-app](https://github.com/kuhaku2031/NexoAI-app) — an AI-powered POS system that lets business owners manage their operations through natural conversation.
 
 ---
 
@@ -13,7 +13,7 @@ Currently crafting [NexoAI](https://github.com/kuhaku2031/NexoAI) — an AI-powe
 I build **mobile-first applications** that solve real problems. My sweet spot is taking complex business logic and turning it into intuitive, AI-enhanced experiences.
 
 **Currently working on:**
-- 📱 Launching NexoAI to production (React Native + AI automation)
+- 📱 Launching NexoAI-app to production (React Native + AI automation)
 - 🤖 Integrating intelligent workflows with N8N
 - 🔄 Learning system architecture from the ground up
 
@@ -60,7 +60,7 @@ I'm seeking opportunities to work with **senior developers** on production syste
 
 ## 🔨 Featured Project
 
-### [NexoAI](https://github.com/kuhaku2031/NexoAI) - AI-Powered Business Management
+### [NexoAI-app](https://github.com/kuhaku2031/NexoAI-app) - AI-Powered Business Management
 
 A mobile POS system that uses conversational AI to help business owners manage inventory, sales, and accounting without learning complex software.
 
@@ -72,7 +72,7 @@ A mobile POS system that uses conversational AI to help business owners manage i
 
 **Status:** 🚀 In development → Launching to beta testers soon
 
-[View Project →](https://github.com/kuhaku2031/NexoAI) | [API Repo →](https://github.com/kuhaku2031/Api-NexoAI)
+[View Project →](https://github.com/kuhaku2031/NexoAI-app) | [API Repo →](https://github.com/kuhaku2031/NexoAI-api)
 
 ---
 
@@ -134,7 +134,7 @@ A mobile POS system that uses conversational AI to help business owners manage i
 
 ## ⚡ Fun Fact
 
-I started programming at 17 and immediately fell in love with the idea that you can build anything with code. Now I'm on a mission to build products that actually make people's lives easier — starting with NexoAI, but definitely not ending there.
+I started programming at 17 and immediately fell in love with the idea that you can build anything with code. Now I'm on a mission to build products that actually make people's lives easier — starting with NexoAI-app, but definitely not ending there.
 
 ---
 
