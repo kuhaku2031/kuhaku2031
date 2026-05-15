@@ -1,88 +1,105 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Contreras&fontSize=40&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Building%20AI-Powered%20Solutions&descAlignY=55&width=100%)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Contreras&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Building%20Real%20AI%20Systems&descAlignY=55&width=100%)
 
 # 💫 About Me
 
-**Cross-Platform Mobile Developer** building solutions that make business operations simpler.
+**AI Engineer & Backend Developer** building production-grade systems that connect LLMs to real business problems.
 
-Currently crafting [NexoAI-app](https://github.com/kuhaku2031/NexoAI-app) — an AI-powered POS system that lets business owners manage their operations through natural conversation.
+Currently crafting [NexoAI](https://github.com/kuhaku2031/NexoAI-api) — a multi-tenant SaaS platform with real-time LLM chat, vector embeddings, semantic search, and AI-generated business insights for Latin American SMBs.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-I build **mobile-first applications** that solve real problems. My sweet spot is taking complex business logic and turning it into intuitive, AI-enhanced experiences.
+My focus is **backend systems where AI does real work** — not demos, not wrappers, but production integrations where language models analyze data, generate insights, and interact with users in real time.
 
 **Currently working on:**
-- 📱 Launching NexoAI-app to production (React Native + AI automation)
-- 🤖 Integrating intelligent workflows with N8N
-- 🔄 Learning system architecture from the ground up
+- 🤖 NexoAI — LLM streaming chat (Llama 3 via OpenRouter), pgvector embeddings, automated AI insights
+- 🐍 Python microservices with FastAPI for data analysis and RAG pipelines
+- 📊 Data analysis with Pandas — connecting business data to AI-generated conclusions
 
 ---
 
 ## 💻 Tech Stack
 
-**Mobile & Frontend**
+**AI & LLM Integration**
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/Llama_3-FF6B35?style=for-the-badge&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Backend & APIs**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Databases**
+**Databases & Storage**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logoColor=white)
 
-**Cloud & DevOps**
+**Data Analysis**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
 
-**Tools & Package Managers**
+**Frontend & Mobile**
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**AI & Automation**
+**Tools**
 
-![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
----
-
-## 🎯 What I'm Looking For
-
-I'm seeking opportunities to work with **senior developers** on production systems where I can:
-- Ship features to real users
-- Learn scalable architecture patterns
-- Contribute to meaningful products
-- Grow from code reviews and mentorship
-
-**Open to:** Remote full-stack or mobile developer positions where I can learn fast and deliver value.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
 
 ## 🔨 Featured Project
 
-### [NexoAI-app](https://github.com/kuhaku2031/NexoAI-app) - AI-Powered Business Management
+### [NexoAI API](https://github.com/kuhaku2031/NexoAI-api) — AI-Powered Multi-Tenant Business Platform
 
-A mobile POS system that uses conversational AI to help business owners manage inventory, sales, and accounting without learning complex software.
+A production-grade SaaS backend for Latin American SMBs. Not just CRUD — real AI integrated into the core of the system.
 
-**The Problem:** Small business owners waste hours navigating clunky management software.
+**What makes it different:**
 
-**The Solution:** Talk to your business data like you'd talk to an assistant. "How were my sales last week?" → Instant insights.
+- 🔴 **Real-time LLM streaming** — SSE-based chat with Llama 3 (via OpenRouter). Conversation history persisted in Firestore with per-company isolation
+- 🧠 **Vector embeddings + semantic search** — pgvector stores conversation embeddings. Nightly cron job archives conversations and enables semantic retrieval
+- 📊 **Automated AI insights** — daily cron generates business insights per company: low stock alerts, sales KPIs, trend detection
+- 🏢 **True multi-tenancy** — JWT + hierarchical RBAC (Owner > Manager > Employee), complete data isolation per company in both PostgreSQL and Firestore
+- ⚡ **Atomic transactions** — sales creation across sale, payment, and inventory tables in a single TypeORM transaction
+- 💾 **Cloud file storage** — Cloudflare R2 integration for image upload and retrieval
+- 💳 **Subscription billing** — multi-tier plan system (Starter, Professional, Enterprise) with per-feature usage tracking
 
-**Stack:** React Native · Nest.js · PostgreSQL · N8N · AI Integration
+**Stack:** NestJS · TypeScript · PostgreSQL · TypeORM · Firebase Firestore · Llama 3 · OpenRouter · pgvector · Cloudflare R2 · NestJS Schedule
 
-**Status:** 🚀 In development → Launching to beta testers soon
-
-[View Project →](https://github.com/kuhaku2031/NexoAI-app) | [API Repo →](https://github.com/kuhaku2031/NexoAI-api)
+[View API Repo →](https://github.com/kuhaku2031/NexoAI-api)
 
 ---
 
 ## 📚 Currently Learning
 
-- 🚀 Deploying mobile apps to App Store & Google Play
-- 🔌 WebSockets for real-time features
-- 📱 Native modules in React Native
-- 🏗️ System design & scalable architecture
-- ⚡ CI/CD pipelines & automated deployments
+- 🐍 **Python for data analysis** — Pandas, NumPy, Matplotlib applied to real business datasets
+- ⚡ **FastAPI** — building Python microservices that integrate with the NestJS backend
+- 🔍 **RAG pipelines** — Retrieval-Augmented Generation to give LLMs real context from business data
+- 📐 **Embeddings & vector search** — deepening what's already in NexoAI into full RAG architecture
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm looking for opportunities as an **AI Engineer or Backend Developer** where I can:
+- Work on systems where AI solves real problems, not just chatbot demos
+- Contribute to production codebases with senior engineers
+- Keep building on what I know (NestJS, TypeScript) while growing into Python and ML
+
+**Open to:** Remote AI Engineer or Backend Developer roles · LATAM startups · companies building AI products
 
 ---
 
@@ -100,23 +117,13 @@ A mobile POS system that uses conversational AI to help business owners manage i
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=kuhaku2031&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## 🎓 Background
 
-- 🎓 Systems Engineering student at **Fundación Universitaria Los Libertadores**
-- 🏆 Hackathon participant
+- 🎓 Systems Engineering student at **Fundación Universitaria Los Libertadores** (7th semester)
+- 💼 Freelance Backend & AI Developer — building NexoAI and client projects
 - 💼 Full-stack developer at **QRender** (Next.js · PHP · MySQL)
 - 🌎 Based in **Bogotá, Colombia**
-- 🗣️ **Spanish** (native) · **English** (conversational)
+- 🗣️ **Spanish** (native) · **English** (technical B1–B2)
 
 ---
 
@@ -127,31 +134,22 @@ A mobile POS system that uses conversational AI to help business owners manage i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancontrerasz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio-three-azure.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmanuelcontreraszapata33@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tu-usuario)
 
 </div>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quick Fact
 
-I started programming at 17 and immediately fell in love with the idea that you can build anything with code. Now I'm on a mission to build products that actually make people's lives easier — starting with NexoAI-app, but definitely not ending there.
-
----
-
-**💡 Open to collaborate on:** Mobile apps · AI integrations · Startup MVPs · Open source React Native projects
-
-**🔍 Currently exploring:** Freelance opportunities to build real-world experience while searching for the right full-time role.
+Started programming at 17. Went from "hello world" to building multi-tenant SaaS with LLM streaming and vector search in under 2 years. The stack grows every week — currently adding Python and RAG to the toolkit.
 
 ---
 
 <div align="center">
 
-### _"The best way to predict the future is to build it."_
+### _"Ship real things. Learn from real systems."_
 
 [![](https://visitcount.itsvg.in/api?id=kuhaku2031&icon=2&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
